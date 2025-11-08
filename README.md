@@ -1,0 +1,7 @@
+## Mission 2: Be a Typescript Technocrat Tentative Outline
+
+| Date | Module | Description |
+| :------- | :------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Nov 08 2025 | `Module-5` | [Explore Basic Types of Typescript]() |
+| Nov 10 2025 | `Module-6` | [Explore Advance Types of Typescript]() |
+| Nov 12 2025 | `Module-7` | [Object Oriented typescript]() |
