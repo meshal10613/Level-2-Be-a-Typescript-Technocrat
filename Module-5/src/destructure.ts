@@ -24,7 +24,7 @@ const user: {
 const {
     favoriteColor: myFavoriteColor,
     name: { middleName: myMiddleName },
-} = user; //obj destructing and alias
+} = user; //obj destructing and name alias
 // console.log(myFavoriteColor, myMiddleName)
 
 //? arrya destructuring------------------->
