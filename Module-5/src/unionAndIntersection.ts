@@ -23,16 +23,16 @@ type Employee = {
 };
 
 type Manager = {
-	designation: string;
-	teamSize: number;
-}
+    designation: string;
+    teamSize: number;
+};
 
 type EmployeeManager = Employee & Manager;
 
 const Meshal: EmployeeManager = {
-	id: "123",
-	name: 'Syed Mohiuddin Meshal',
-	phoneNumber: "+880 1764447574",
-	designation: "",
-	teamSize: 20
-}
+    id: "123",
+    name: "Syed Mohiuddin Meshal",
+    phoneNumber: "+880 1764447574",
+    designation: "",
+    teamSize: 20,
+};
