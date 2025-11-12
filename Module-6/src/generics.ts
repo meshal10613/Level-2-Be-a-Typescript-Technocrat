@@ -17,11 +17,13 @@ type Coordinates<M, N> = [M, N];
 const coordinates: Coordinates<string, string> = ["20", "30"];
 const coordinates2: Coordinates<number, number> = [20, 30];
 
-const userList: genericArray<{
+type User = {
     name: string;
     age: number;
 	favoriteColor?: string
-}> = [
+}
+
+const userList: genericArray<User> = [
     {
         name: "Karim",
         age: 22,
